@@ -52,3 +52,4 @@ discriminator.compile(loss='binary_crossentropy', optimizer=Adam(0.0002,0.5))
 gan = build_gan(generator, discriminator)
 
 train(epochs=1000, batch_size=64, print_interval=100)
+<img width="1456" height="314" alt="501270122-f5734611-f007-48bc-8add-993ed91ccb3e" src="https://github.com/user-attachments/assets/fc7227ec-b29e-40a8-b18c-977c60265dc8" />
