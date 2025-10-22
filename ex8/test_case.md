@@ -53,3 +53,7 @@ for e in range(10000):
             plt.imshow(g[i,:,:,0],cmap='gray')
             plt.axis('off')
         plt.show()
+
+
+        
+<img width="293" height="518" alt="504024991-fe0f9161-c40d-4b9b-8086-891d2853b73e" src="https://github.com/user-attachments/assets/0dbac173-df0e-481e-8d27-a6ec55420634" />
